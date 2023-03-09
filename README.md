@@ -18,4 +18,16 @@ x: scene is exited
 
 t: music is turned on/off
 
-h
+## To run in Linux
+
+1. Download all files into any accessible folder
+
+2. Open env file in terminal
+
+3. Run "source bin/activate" to activate the virtual environement in terminal
+
+4. Return to main folder, run "./bounce.py"
+
+## Demo
+
+
